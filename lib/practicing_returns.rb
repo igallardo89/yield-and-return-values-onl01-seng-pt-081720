@@ -1,3 +1,5 @@
+array = ["Tim", "Jim", "Tom"]
+
 def hello(array)
   i = 0
   collection = []
